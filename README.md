@@ -35,10 +35,13 @@ Para inicializar el ecosistema completo y habilitar la comunicación por WebSock
 ### 📁 Terminal 1: Servidor HTTP del Back-End (Laravel API)
 
 En la raiz del proyecto backend en una terminal ejecutar el comando
+
 php artisan serve
 
 En la raiz del proyecto backend en una terminal ejecutar el comando
+
 php artisan reverb:start
 
 En la raiz del proyecto frontend en una terminal ejecutar el comando
+
 npm run dev
