@@ -55,6 +55,6 @@ contraseña: password123
 usuario: alice@test.com
 contraseña: secret
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
