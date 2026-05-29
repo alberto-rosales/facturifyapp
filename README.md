@@ -42,3 +42,19 @@ php artisan reverb:start
 
 En la raiz del proyecto frontend en una terminal ejecutar el comando
 npm run dev
+
+
+### Datos de prueba
+
+El Seeder ya genera dos usuarios de prueba con los cual se puede interactuar en el inbox
+para realizar la prueba abrir el navegador e iniciar sesion con un usuario y en otra pestaña en modo invitado o incognito inciar sesion con el otro usuario simulando la conversación
+
+usuario: admin@facturify.com
+contraseña: password123
+
+usuario: alice@test.com
+contraseña: secret
+
+![alt text](image.png)
+
+
